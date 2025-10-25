@@ -1,0 +1,12 @@
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.db
+*.sqlite
+.env
+/.vs
+/.idea
+/dist
+/node_modules
